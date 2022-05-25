@@ -25,3 +25,6 @@ $ cd ByPass-Ok
 $ ls
 
 $ python ByPassQinn.py
+
+# 1 Day Free License
+Rm9sbG93LUdpdGh1Yi1Nb2NoLVFpbm4tNzc4
